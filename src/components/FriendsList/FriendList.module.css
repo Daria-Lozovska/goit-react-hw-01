@@ -17,28 +17,3 @@
     border-radius: 4px;
     background-color: #fff;
 }
-
-.friendItem {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    margin-bottom: 10px;
-    padding: 10px 20px;
-}
-
-.avatar {
-    margin-right: 10px;
-    margin: 0 auto;
-}
-
-.name {
-    color: #000;
-}
-
-.online {
-    color: green;
-}
-
-.offline {
-    color: red;
-}
